@@ -19,3 +19,31 @@ Marketing Spend    150 non-null int64\
 Revenue            150 non-null int64\
 dtypes: int64(3), object(4)\
 memory usage: 8.3+ KB
+
+# Dataset Columns:
+**'Store ID', 'City', 'State', 'Sales Region', 'New Expansion','Marketing Spend', 'Revenue'**
+
+# Dataset Head:
+![alt txt](https://github.com/saksham1998/StartUP-Expansion/blob/master/head-image.png)
+
+# Average Revenue per State:
+![alt txt](https://github.com/saksham1998/StartUP-Expansion/blob/master/Average%20Revenue.png)
+
+# Comparison b/w Revenue and Marketing Spend:
+![alt txt](https://github.com/saksham1998/StartUP-Expansion/blob/master/Revenue-Spend.png)
+
+# Distribution Chart of Revenue:
+![alt txt](https://github.com/saksham1998/StartUP-Expansion/blob/master/Revenue%20Distribution.png)
+
+# Sales Region Comparison for Marketing Spend:
+![alt txt](https://github.com/saksham1998/StartUP-Expansion/blob/master/Sales%20Region%20Comparison.png)
+
+# Most Successful States in terms of less spend and high profit:
+![alt txt](https://github.com/saksham1998/StartUP-Expansion/blob/master/ProfitableStates.png)
+
+# Profit-Spend Comparison of above states:
+![alt txt](https://github.com/saksham1998/StartUP-Expansion/blob/master/ProfitableStatesRev.png)
+
+# Result:
+**Analysis of StartUP Expansion in United States dataset is done!!!**
+For any suggestion,email me at sakshammanocha14@gmail.com
